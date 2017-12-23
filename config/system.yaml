@@ -1,0 +1,5 @@
+system:
+  file_extensions: txt,xml,json,yml,yaml
+zh-CN:
+  ranges: '\u4e00-\u9fff'
+
